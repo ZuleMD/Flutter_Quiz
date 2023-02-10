@@ -1,16 +1,3 @@
-# flutterquiz_app
+<img src="https://user-images.githubusercontent.com/80210946/218215080-3066d8c3-a8ad-4631-984f-d45b06b69222.png" width=300 height=600/>
+<img src=https://user-images.githubusercontent.com/80210946/218215085-fe6cc9ed-1bf5-430a-8559-92c0fcf381e8.png" width=300 height=600/>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
